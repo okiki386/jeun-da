@@ -510,7 +510,7 @@ article .hotTrendImages .mealTypes{
 
     }
     .maincontainer .order button{
-        width: 140px;
+        width: 100px;
         text-decoration: none;
         font-weight: 700;
         color: #000000;
@@ -519,6 +519,7 @@ article .hotTrendImages .mealTypes{
         border-radius: 10px;
         border-color: white;
         color: white;
+        height: 50px;
     }
     
     .maincontainer article{
@@ -545,7 +546,7 @@ article .hotTrendImages .mealTypes{
 .maincontainer article .shop h2{
     font-weight: 600;
     font-size: 16px;
-    margin-left: 20px;
+    margin-left: 10px;
 
 }
 
@@ -559,7 +560,7 @@ article .hotTrendImages .mealTypes{
     gap: 4px;
     width: 356px;
     margin-top: 30px;
-    margin-left: 20px;
+    margin-left: 10px;
 
 }
 
