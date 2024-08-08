@@ -598,7 +598,7 @@ article .hotTrendImages .mealTypes{
 
 article .hotTrendImages h2{
     font-weight: 500;
-    margin-left: 50px;
+    margin-left: 10px;
 }
 
 article .hotTrendImages .mealTypes{
@@ -608,7 +608,7 @@ article .hotTrendImages .mealTypes{
     height: 600px;
     flex-wrap: wrap;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 20px;
 }
 
 .maincontainer article .hotTrendImages .mealTypes .container{
