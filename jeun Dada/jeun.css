@@ -539,14 +539,13 @@ article .hotTrendImages .mealTypes{
    height: 200px;
    display: flex;
    flex-direction: column;
-   margin-left: 70px;
+ margin-left: 10%;
     
 }
 
 .maincontainer article .shop h2{
     font-weight: 600;
     font-size: 16px;
-    margin-left: 10px;
 
 }
 
@@ -560,8 +559,6 @@ article .hotTrendImages .mealTypes{
     gap: 4px;
     width: 356px;
     margin-top: 30px;
-    margin-left: 10px;
-
 }
 
 .maincontainer article .shop .byCategories .foodChoice{
