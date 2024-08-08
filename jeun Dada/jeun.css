@@ -7,7 +7,7 @@ body{
     width: 100vw;
     height: 100%;
     background-image: url(./assets.jeun/image\ copy\ 4.png);
-    overflow-x: hidden;
+    overflow-x: none;
 
 }
 
@@ -545,7 +545,7 @@ article .hotTrendImages .mealTypes{
 .maincontainer article .shop h2{
     font-weight: 600;
     font-size: 16px;
-    margin-left: 50px;
+    margin-left: 20px;
 
 }
 
@@ -559,7 +559,7 @@ article .hotTrendImages .mealTypes{
     gap: 4px;
     width: 356px;
     margin-top: 30px;
-    margin-left: 50px;
+    margin-left: 20px;
 
 }
 
@@ -658,6 +658,7 @@ article .hotTrendImages .mealTypes{
 .maincontainer .footer img{
     color: white;
     margin-left: 50px;
+    margin-top: 20px;
 }
 .maincontainer .footer p{
     color: white;
@@ -666,26 +667,27 @@ article .hotTrendImages .mealTypes{
     display: flex;
     flex-direction: column;
     margin-left: 50px;
+    margin-top: 15px;
 }
 .maincontainer .footer .quick{
-    margin-top: 50px;
+    margin-top: 10px;
     font-size: 18px;
     margin-left: 10px;
 }
 .maincontainer .footer .quick .tag{
     font-size: 15px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .maincontainer .footer .quick .copy{
     font-size: 15px;
     display: flex;
     flex-direction: row;
     color: white;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .maincontainer .footer .news{
     margin-top: 50px;
-    font-size: 30px;
+    font-size: 20px;
     margin-left: 10px;
 }
 .maincontainer .footer .news .to{
@@ -703,8 +705,9 @@ article .hotTrendImages .mealTypes{
     margin-top: 10px;
 }  
 .maincontainer .footer .form button{
-    padding: 8px;
+    padding: 9px;
     background-color: #fb8500;
+    width: 150px;
 } 
 .maincontainer .footer .news .privacy{
     font-size: 15px;
